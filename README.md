@@ -1,3 +1,3 @@
 # nithinjb-demo
 this is my first git repository
-<br>author-nithinjb
+<br>king-nithinjb
